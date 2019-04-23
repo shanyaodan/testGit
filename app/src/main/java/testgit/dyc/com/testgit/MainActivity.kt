@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
-        sample_text.append("sdfsfsdfsdfsdf")
+        sample_text.append("ssssssssssssssssssssssssssssssssssssss")
     }
 
     /**
