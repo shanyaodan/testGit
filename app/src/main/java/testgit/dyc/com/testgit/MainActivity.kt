@@ -20,6 +20,10 @@ class MainActivity : AppCompatActivity() {
         sample_text.append("reposity2")
         sample_text.append("sssssssss")
         sample_text.append("sssssssss")
+        sample_text.append("sssssssss")
+        sample_text.append("sssssssss")
+
+
 
     }
 
